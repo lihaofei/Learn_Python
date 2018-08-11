@@ -47,10 +47,10 @@ import time
 #     print(line.strip())
 # f.close()
 
-# seek()
+# seek() 设定光标位置
 # encoding
 # flush
-# tell()
+# tell() 找光标位置
 #
 # for  i in  range(50):
 #     sys.stdout.flush()
